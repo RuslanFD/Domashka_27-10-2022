@@ -3,18 +3,14 @@
 }
 
 .main_block {
-	display: flex;
-}
-
-.div_bandera {
-	width: 120px;
-	
+	/*margin-left: 100px;
+	margin-right: 100px;*/
+	max-width: 1200px;
+	margin: auto;
 }
 
 .foto_bandera {
 	width: 120px;
-}
-
-.about_bandera {
-	margin-left: 15px;
+    float: left;
+	margin: 5px 15px 5px 0px;
 }
