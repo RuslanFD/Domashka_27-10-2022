@@ -1,16 +1,38 @@
 .body {
-	width: 100%;
+    width: 100%;
 }
 
 .main_block {
-	/*margin-left: 100px;
-	margin-right: 100px;*/
-	max-width: 1200px;
-	margin: auto;
+    max-width: 1200px;
+    margin: auto;
 }
 
+.name {
+    font-size: 18px;
+    font-family: arial;
+    font-weiht: 600;
+}
 .foto_bandera {
-	width: 120px;
+    width: 120px;
     float: left;
-	margin: 5px 15px 5px 0px;
+    margin: 5px 15px 5px 0px;
+}
+
+.first_text_block {
+
+}
+
+.second_text_block {
+
+}
+
+.third_text_block {
+
+}
+
+.first_text_block, .second_text_block, .third_text_block {
+    font-size: 14px;
+    font-family: arial;
+    font-weight: 400px;
+    margin-bottom: 40px;
 }
