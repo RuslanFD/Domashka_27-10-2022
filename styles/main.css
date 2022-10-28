@@ -3,36 +3,32 @@
 }
 
 .main_block {
-    max-width: 1200px;
+    max-width: 900px;
     margin: auto;
+    
 }
 
 .name {
     font-size: 18px;
     font-family: arial;
-    font-weiht: 600;
+    font-weight: 600;
 }
+
 .foto_bandera {
     width: 120px;
     float: left;
     margin: 5px 15px 5px 0px;
 }
 
-.first_text_block {
-
-}
-
-.second_text_block {
-
-}
-
-.third_text_block {
-
-}
-
 .first_text_block, .second_text_block, .third_text_block {
     font-size: 14px;
     font-family: arial;
-    font-weight: 400px;
+    font-weight: 400;
+    margin-bottom: 40px;
+    text-align: justify;
+}
+
+footer {
+    text-align: right;
     margin-bottom: 40px;
 }
